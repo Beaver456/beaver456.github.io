@@ -3,13 +3,13 @@ layout: home
 title: AI-Powered Language Mock Tests
 ---
 
-# Welcome to Mocko Blog
+# Welcome to Beaver Blog
 
 Practical resources for CELPIP, TEF, TCF, and language test preparation.
 
 # Prepare Smarter. Perform Better.
 
-Welcome to **Mocko**, an AI-powered language learning platform designed to help candidates prepare for some of the world's most important language proficiency exams.
+Welcome, an AI-powered language learning platform designed to help candidates prepare for some of the world's most important language proficiency exams.
 
 Unlike traditional practice websites that simply provide questions and answers, Mocko focuses on **realistic exam simulations**, **intelligent performance analysis**, and **personalized learning insights**. Every mock test is designed to replicate the experience of the official exam, helping you build confidence before test day while identifying the skills that need the most attention.
 
