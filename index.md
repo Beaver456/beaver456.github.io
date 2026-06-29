@@ -1,8 +1,11 @@
 ---
-
 layout: home
-title: Mocko | AI-Powered Language Mock Tests
----------------------------------------------
+title: AI-Powered Language Mock Tests
+---
+
+# Welcome to Mocko Blog
+
+Practical resources for CELPIP, TEF, TCF, and language test preparation.
 
 # Prepare Smarter. Perform Better.
 
